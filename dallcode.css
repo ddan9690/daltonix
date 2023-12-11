@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: opx;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+img{
+    width:40rem;
+    height: 30rem;
+}
+body{
+    background-color: #f0f0ff;
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    position: relative;
+    
+}

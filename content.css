@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: right;
+    background-color: blue;
+}
+body{
+    background-color: blue;
+    background-image: url('./daltonix.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+   
+}
+
+a{
+    display: inline;
+    text-align: right;
+    margin: 1rem;
+    text-decoration: none;
+    margin-top: 2rem;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+   
+}
+h1{
+text-align: left;
+text-decoration: none;
+text-transform: uppercase;
+font-weight: bolder;
+background-color: black;
+color: red;
+}button a{
+    text-decoration: none;
+    color:red
+
+ 
+}
+button{
+    border: 0;
+    font-size: larger;
+    margin: 1rem;
+    padding: 10px;
+    background-color: black;
+}
+
+   
+   
+a:hover{
+    color:gold;
+}
+
+    
+
+.wrapper{
+  margin-left: 30rem;
+
+}
+h2{
+    text-transform: uppercase;
+    font-weight: 800;
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+.name{
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    margin-bottom: 30px;
+   background-color: black;
+   color: gold;
+   display: block;
+   padding: 10px;
+   
+}
+.email{
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    margin-bottom: 30px;
+    background-color: black;
+    color: white;
+    display: block;
+    padding: 10px;
+    color: gold;
+}
+.password{
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    margin-bottom: 30px;
+    background-color: black;
+    color: white;
+    display: block;
+    padding: 10px;
+    color: gold;
+}
+#message{
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    margin-bottom: 30px;
+    background-color: black;
+    color: white;
+    display: block;
+    padding: 10px;
+    color: gold;
+}
+.submit{
+    color: red;
+    background-color: black;
+    width: 20%;
+}
+.submit:hover{
+    background-color:red;
+    color: black;
+}
+
+
+.footer{
+    position: fixed;
+    bottom: 0;
+   left: 0;
+   right: 0;
+    padding: 1.5rem;
+    background-color: rgb(6, 6, 6);
+    color: #fff;
+    
+}
